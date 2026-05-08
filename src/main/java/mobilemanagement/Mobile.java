@@ -1,4 +1,4 @@
-package mobilmanagement;
+package mobilemanagement;
 
 public class Mobile implements Camera {
 
