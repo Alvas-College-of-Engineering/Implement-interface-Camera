@@ -69,11 +69,11 @@ http://localhost:8080/MobileManagementSystem1/
 
 ### Home Page
 
-![Home Page](screenshots/home.png)
+<img src="screenshots/home.png" width="700">
 
 ### Result Page
 
-![Result Page](screenshots/result.png)
+<img src="screenshots/result.png" width="700">
 
 ---
 
